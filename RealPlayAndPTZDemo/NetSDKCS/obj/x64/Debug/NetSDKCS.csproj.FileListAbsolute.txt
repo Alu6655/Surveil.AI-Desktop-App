@@ -1,0 +1,8 @@
+C:\RealPlayAndPTZDemo\NetSDKCS\bin\x64\Debug\NetSDKCS.dll
+C:\RealPlayAndPTZDemo\NetSDKCS\bin\x64\Debug\NetSDKCS.pdb
+C:\RealPlayAndPTZDemo\NetSDKCS\bin\x64\Debug\Dapper.dll
+C:\RealPlayAndPTZDemo\NetSDKCS\bin\x64\Debug\Dapper.xml
+C:\RealPlayAndPTZDemo\NetSDKCS\obj\x64\Debug\NetSDKCS.csproj.CoreCompileInputs.cache
+C:\RealPlayAndPTZDemo\NetSDKCS\obj\x64\Debug\NetSDKCS.csproj.CopyComplete
+C:\RealPlayAndPTZDemo\NetSDKCS\obj\x64\Debug\NetSDKCS.dll
+C:\RealPlayAndPTZDemo\NetSDKCS\obj\x64\Debug\NetSDKCS.pdb

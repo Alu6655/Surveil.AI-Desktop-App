@@ -1,0 +1,16 @@
+C:\RealPlayAndPTZDemo\RealPlayAndPTZDemo\bin\x64Debug\RealPlayAndPTZDemo.exe.config
+C:\RealPlayAndPTZDemo\RealPlayAndPTZDemo\bin\x64Debug\RealPlayAndPTZDemo.exe
+C:\RealPlayAndPTZDemo\RealPlayAndPTZDemo\bin\x64Debug\RealPlayAndPTZDemo.pdb
+C:\RealPlayAndPTZDemo\RealPlayAndPTZDemo\bin\x64Debug\Dapper.dll
+C:\RealPlayAndPTZDemo\RealPlayAndPTZDemo\bin\x64Debug\NetSDKCS.dll
+C:\RealPlayAndPTZDemo\RealPlayAndPTZDemo\bin\x64Debug\NetSDKCS.pdb
+C:\RealPlayAndPTZDemo\RealPlayAndPTZDemo\bin\x64Debug\Dapper.xml
+C:\RealPlayAndPTZDemo\RealPlayAndPTZDemo\obj\x64\Debug\RealPlayAndPTZDemo.csprojAssemblyReference.cache
+C:\RealPlayAndPTZDemo\RealPlayAndPTZDemo\obj\x64\Debug\RealPlayAndPTZDemo.Login.resources
+C:\RealPlayAndPTZDemo\RealPlayAndPTZDemo\obj\x64\Debug\RealPlayAndPTZDemo.Properties.Resources.resources
+C:\RealPlayAndPTZDemo\RealPlayAndPTZDemo\obj\x64\Debug\RealPlayAndPTZDemo.RealPlayAndPTZDemo.resources
+C:\RealPlayAndPTZDemo\RealPlayAndPTZDemo\obj\x64\Debug\RealPlayAndPTZDemo.csproj.GenerateResource.cache
+C:\RealPlayAndPTZDemo\RealPlayAndPTZDemo\obj\x64\Debug\RealPlayAndPTZDemo.csproj.CoreCompileInputs.cache
+C:\RealPlayAndPTZDemo\RealPlayAndPTZDemo\obj\x64\Debug\RealPlayAndPTZDemo.csproj.CopyComplete
+C:\RealPlayAndPTZDemo\RealPlayAndPTZDemo\obj\x64\Debug\RealPlayAndPTZDemo.exe
+C:\RealPlayAndPTZDemo\RealPlayAndPTZDemo\obj\x64\Debug\RealPlayAndPTZDemo.pdb
