@@ -1,30 +1,38 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1831
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealPlayAndPTZDemo", "RealPlayAndPTZDemo\RealPlayAndPTZDemo.csproj", "{990232E7-CCFF-4BC2-B5AE-BA5DF018123D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetSDKCS", "NetSDKCS\NetSDKCS.csproj", "{60CFBA25-F7CE-4140-A7E3-5355A25198E5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
 		Debug|x64 = Debug|x64
 		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
 		Release|x64 = Release|x64
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{990232E7-CCFF-4BC2-B5AE-BA5DF018123D}.Debug|Any CPU.ActiveCfg = Debug|x86
 		{990232E7-CCFF-4BC2-B5AE-BA5DF018123D}.Debug|x64.ActiveCfg = Debug|x64
 		{990232E7-CCFF-4BC2-B5AE-BA5DF018123D}.Debug|x64.Build.0 = Debug|x64
 		{990232E7-CCFF-4BC2-B5AE-BA5DF018123D}.Debug|x86.ActiveCfg = Debug|x86
 		{990232E7-CCFF-4BC2-B5AE-BA5DF018123D}.Debug|x86.Build.0 = Debug|x86
+		{990232E7-CCFF-4BC2-B5AE-BA5DF018123D}.Release|Any CPU.ActiveCfg = Release|x86
 		{990232E7-CCFF-4BC2-B5AE-BA5DF018123D}.Release|x64.ActiveCfg = Release|x64
 		{990232E7-CCFF-4BC2-B5AE-BA5DF018123D}.Release|x64.Build.0 = Release|x64
 		{990232E7-CCFF-4BC2-B5AE-BA5DF018123D}.Release|x86.ActiveCfg = Release|x86
 		{990232E7-CCFF-4BC2-B5AE-BA5DF018123D}.Release|x86.Build.0 = Release|x86
+		{60CFBA25-F7CE-4140-A7E3-5355A25198E5}.Debug|Any CPU.ActiveCfg = Debug|x86
 		{60CFBA25-F7CE-4140-A7E3-5355A25198E5}.Debug|x64.ActiveCfg = Debug|x64
 		{60CFBA25-F7CE-4140-A7E3-5355A25198E5}.Debug|x64.Build.0 = Debug|x64
 		{60CFBA25-F7CE-4140-A7E3-5355A25198E5}.Debug|x86.ActiveCfg = Debug|x86
 		{60CFBA25-F7CE-4140-A7E3-5355A25198E5}.Debug|x86.Build.0 = Debug|x86
+		{60CFBA25-F7CE-4140-A7E3-5355A25198E5}.Release|Any CPU.ActiveCfg = Release|x86
 		{60CFBA25-F7CE-4140-A7E3-5355A25198E5}.Release|x64.ActiveCfg = Release|x64
 		{60CFBA25-F7CE-4140-A7E3-5355A25198E5}.Release|x64.Build.0 = Release|x64
 		{60CFBA25-F7CE-4140-A7E3-5355A25198E5}.Release|x86.ActiveCfg = Release|x86
@@ -32,5 +40,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A0ED7EA-BCEB-49FA-8084-6B00751888C9}
 	EndGlobalSection
 EndGlobal

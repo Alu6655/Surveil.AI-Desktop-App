@@ -14,3 +14,19 @@ C:\RealPlayAndPTZDemo\RealPlayAndPTZDemo\obj\x64\Debug\RealPlayAndPTZDemo.csproj
 C:\RealPlayAndPTZDemo\RealPlayAndPTZDemo\obj\x64\Debug\RealPlayAndPTZDemo.csproj.CopyComplete
 C:\RealPlayAndPTZDemo\RealPlayAndPTZDemo\obj\x64\Debug\RealPlayAndPTZDemo.exe
 C:\RealPlayAndPTZDemo\RealPlayAndPTZDemo\obj\x64\Debug\RealPlayAndPTZDemo.pdb
+C:\Surevil.AI Desktop App\Surveil.AI-Desktop-App\RealPlayAndPTZDemo\RealPlayAndPTZDemo\bin\x64Debug\RealPlayAndPTZDemo.exe.config
+C:\Surevil.AI Desktop App\Surveil.AI-Desktop-App\RealPlayAndPTZDemo\RealPlayAndPTZDemo\bin\x64Debug\RealPlayAndPTZDemo.exe
+C:\Surevil.AI Desktop App\Surveil.AI-Desktop-App\RealPlayAndPTZDemo\RealPlayAndPTZDemo\bin\x64Debug\RealPlayAndPTZDemo.pdb
+C:\Surevil.AI Desktop App\Surveil.AI-Desktop-App\RealPlayAndPTZDemo\RealPlayAndPTZDemo\bin\x64Debug\Dapper.dll
+C:\Surevil.AI Desktop App\Surveil.AI-Desktop-App\RealPlayAndPTZDemo\RealPlayAndPTZDemo\bin\x64Debug\NetSDKCS.dll
+C:\Surevil.AI Desktop App\Surveil.AI-Desktop-App\RealPlayAndPTZDemo\RealPlayAndPTZDemo\bin\x64Debug\NetSDKCS.pdb
+C:\Surevil.AI Desktop App\Surveil.AI-Desktop-App\RealPlayAndPTZDemo\RealPlayAndPTZDemo\bin\x64Debug\Dapper.xml
+C:\Surevil.AI Desktop App\Surveil.AI-Desktop-App\RealPlayAndPTZDemo\RealPlayAndPTZDemo\obj\x64\Debug\RealPlayAndPTZDemo.csprojAssemblyReference.cache
+C:\Surevil.AI Desktop App\Surveil.AI-Desktop-App\RealPlayAndPTZDemo\RealPlayAndPTZDemo\obj\x64\Debug\RealPlayAndPTZDemo.Login.resources
+C:\Surevil.AI Desktop App\Surveil.AI-Desktop-App\RealPlayAndPTZDemo\RealPlayAndPTZDemo\obj\x64\Debug\RealPlayAndPTZDemo.Properties.Resources.resources
+C:\Surevil.AI Desktop App\Surveil.AI-Desktop-App\RealPlayAndPTZDemo\RealPlayAndPTZDemo\obj\x64\Debug\RealPlayAndPTZDemo.RealPlayAndPTZDemo.resources
+C:\Surevil.AI Desktop App\Surveil.AI-Desktop-App\RealPlayAndPTZDemo\RealPlayAndPTZDemo\obj\x64\Debug\RealPlayAndPTZDemo.csproj.GenerateResource.cache
+C:\Surevil.AI Desktop App\Surveil.AI-Desktop-App\RealPlayAndPTZDemo\RealPlayAndPTZDemo\obj\x64\Debug\RealPlayAndPTZDemo.csproj.CoreCompileInputs.cache
+C:\Surevil.AI Desktop App\Surveil.AI-Desktop-App\RealPlayAndPTZDemo\RealPlayAndPTZDemo\obj\x64\Debug\RealPlayAndPTZDemo.csproj.CopyComplete
+C:\Surevil.AI Desktop App\Surveil.AI-Desktop-App\RealPlayAndPTZDemo\RealPlayAndPTZDemo\obj\x64\Debug\RealPlayAndPTZDemo.exe
+C:\Surevil.AI Desktop App\Surveil.AI-Desktop-App\RealPlayAndPTZDemo\RealPlayAndPTZDemo\obj\x64\Debug\RealPlayAndPTZDemo.pdb
